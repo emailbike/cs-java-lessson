@@ -5,3 +5,7 @@
 3、java-big-data
   3.1 spark
    https://www.digitalocean.com/community/tutorials/apache-spark-example-word-count-program-java
+4、cache
+  4.1 redis 
+    4.1.1 data structure
+    4.1.2 method use
